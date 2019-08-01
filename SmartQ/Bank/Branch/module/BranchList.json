@@ -1,0 +1,81 @@
+
+    [
+        {
+            "branchId": "1",
+            "branchName": "花旗银行大连分行",
+            "branchAddress": "大连市中山区港兴路6号",
+            "branchIcon":"branch_green",
+            "branchDistance": "18.8 km"
+        },
+        {
+            "branchId": "2",
+            "branchName": "花旗银行星海支行",
+            "branchAddress": "大连市中山区东岗路86号万达大厦一楼102",
+            "branchIcon":"branch_yellow",
+            "branchDistance": "2 km"
+        },
+        {
+            "branchId": "3",
+            "branchName": "花旗银行旅顺支行",
+            "branchAddress": "大连市中山区东岗路86号万达大厦一楼103",
+            "branchIcon":"branch_red",
+            "branchDistance": "3 km"
+        },
+        {
+            "branchId": "4",
+            "branchName": "花旗银行西岗支行",
+            "branchAddress": "大连市中山区东岗路86号万达大厦一楼104",
+            "branchIcon":"branch_green",
+            "branchDistance": "4 km"
+        },
+        {
+            "branchId": "5",
+            "branchName": "花旗银行中山支行",
+            "branchAddress": "大连市中山区东岗路86号万达大厦一楼105",
+            "branchIcon":"branch_green",
+            "branchDistance": "5 km"
+        },
+        {
+            "branchId": "6",
+            "branchName": "花旗银行甘井子支行",
+            "branchAddress": "大连市中山区东岗路86号万达大厦一楼106",
+            "branchIcon":"branch_green",
+            "branchDistance": "6 km"
+        },
+        {
+            "branchId": "7",
+            "branchName": "花旗银行东港支行",
+            "branchAddress": "大连市中山区东岗路86号万达大厦一楼107",
+            "branchIcon":"branch_green",
+            "branchDistance": "7 km"
+        },
+        {
+            "branchId": "8",
+            "branchName": "花旗银行腾飞支行",
+            "branchAddress": "大连市中山区东岗路86号万达大厦一楼108",
+            "branchIcon":"branch_green",
+            "branchDistance": "8 km"
+        },
+        {
+            "branchId": "9",
+            "branchName": "Citibank9",
+            "branchAddress": "大连市中山区东岗路86号万达大厦一楼109",
+            "branchIcon":"branch_green",
+            "branchDistance": "9 km"
+        },
+        {
+            "branchId": "10",
+            "branchName": "Citibank10",
+            "branchAddress": "大连市沙河口区黄河路100号罗斯福702",
+            "branchIcon":"branch_green",
+            "branchDistance": "10 km"
+        },
+        {
+            "branchId": "11",
+            "branchName": "Citibank11",
+            "branchAddress": "大连市沙河口区黄河路100号罗斯福703",
+            "branchIcon":"branch_green",
+            "branchDistance": "11 km"
+        }
+    ]
+
